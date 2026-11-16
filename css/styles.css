@@ -1,0 +1,11 @@
+.header{
+    text-align: center;
+    font-size: large;
+}
+
+.linea{
+    width: auto;
+    height: 0;
+    border-top: 1px solid black;
+    margin: 15px 0;
+}
